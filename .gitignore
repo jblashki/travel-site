@@ -31,3 +31,4 @@ dwsync.xml
 app/temp/*
 app/assets/styles/modules/_sprite.css
 app/assets/images/sprites/*
+dist
